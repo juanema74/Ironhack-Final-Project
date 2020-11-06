@@ -1,11 +1,10 @@
 
-###**Ironhack Final Project - Part Time Data Analytics Bootcamp** 
-###**Marketplace Price Evolution Tool** 
-**"Making value out of data, to drive sales strategy"**
+### **Ironhack Final Project - Part Time Data Analytics Bootcamp** 
+### **Marketplace Price Evolution Tool** 
+**Making value out of data, to drive sales strategy**
 
 
-
-![Image] (/Users/juandediegosuanzes/desktop/Ironhack-Final-Project/readme_Img/samsung_vs_lg_)
+![samsung_vs_lg_] (../readme_Img/samsung_vs_lg_)
 
 ### :running: **About the project**
 ### 💥**Core technical concepts and inspiration🏃**
@@ -14,23 +13,23 @@ In a world where eveything change in seconds, a real time price strategy, is a m
 This is an App created to visualize the daily price Evolution of Ultra HD 4K TVs in 2 Manufactures: LG and Samsung, in 2 different marketplaces: Pc Componentes and Worten.
 
 Main objectives:
-• Strengthen and make company's sales strategy more efficient.
-• Make pricing decisions, adapting prices to each Marketplace, in order to increase sales.
-• Sell your products in the Marketplace that better fit my Price.
-• Adapt the prices depending on the Marketplace we sell.
-• Being able to anticipate and change prices on selected dates, such as Black Friday, Christmas etc.
+- Strengthen and make company's sales strategy more efficient.
+- Make pricing decisions, adapting prices to each Marketplace, in order to increase sales.
+- Sell your products in the Marketplace that better fit my Price.
+- Adapt the prices depending on the Marketplace we sell.
+- Being able to anticipate and change prices on selected dates, such as Black Friday, Christmas etc.
 
 **Price Evolution from the four sources of data**
-![Image] (/Users/juandediegosuanzes/desktop/Ironhack-Final-Project/readme_Img/image1.png)
+![Image1] (../readme_Img/image1.png)
 
 **Market place by brand detail**
-![Image] (/Users/juandediegosuanzes/desktop/Ironhack-Final-Project/readme_Img/image2.png)
+![Image2] (../readme_Img/image2.png)
 
 **DataFrame Max prices over the days**
-![Image] (/Users/juandediegosuanzes/desktop/Ironhack-Final-Project/readme_Img/image3.png)
+![Image3] (../readme_Img/image3.png)
 
 **Price Gap between brand per marketplace**
-![Image] (/Users/juandediegosuanzes/desktop/Ironhack-Final-Project/readme_Img/image4.png)
+![Image4] (../readme_Img/image4.png)
 
 
 ### :computer: **Technology stack**
@@ -71,14 +70,13 @@ Please, install all the libraries mentinoned in Technology Stack in your environ
         └── SUMMARY.csv
 ```
 
-> Do not forget to include `__trash__` and `.env` in `.gitignore` 
 
-### :bell: **Next steps**
+### :bulb: **Next steps**
 - Make it for more market place, and more brands
 - Have the detail per TV category (UHD, 4k, OLED) and models.
 - EAN to product API conection
 
-### 💌**Contact info**
+### 💌 **Contact info**
 - LinkedIn: https://www.linkedin.com/in/juan-de-diego-suanzes/
 - Github: https://github.com/juanema74
 - Tableau: https://public.tableau.com/profile/juan.de.diego#!/?newProfile=&activeTab=0
