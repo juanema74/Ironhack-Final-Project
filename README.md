@@ -3,8 +3,7 @@
 ### :chart_with_upwards_trend: **Marketplace Price Evolution Tool** 
 ### :moneybag: **Making value out of data, to drive sales strategy**
 
-![samsung_vs_lg_](https://github.com/juanema74/Ironhack-Final-Project/tree/master/streamlit/images/samsung_vs_lg_)
-Format: ![Alt Text](url)
+![image](./images/samsung_vs_lg_)
 
 
 ### :dart: **About the project** :dart:
@@ -21,20 +20,16 @@ This is an App created to visualize the daily price Evolution of Ultra HD 4K TVs
 - Being able to anticipate and change prices on selected dates, such as Black Friday, Christmas etc.
 
 **Price Evolution from the four sources of data**
-![Image1] (https://github.com/juanema74/Ironhack-Final-Project/tree/master/readme_Img/image1.png)
-Format: ![Alt Text](url)
+![Image] (./readme_Img/image1.png)
 
 **Market place by brand detail**
-![Image2] (https://github.com/juanema74/Ironhack-Final-Project/tree/master/readme_Img/image2.png)
-Format: ![Alt Text](url)
+![Image] (./readme_Img/image2.png)
 
 **DataFrame Max prices over the days**
-![Image3] (https://github.com/juanema74/Ironhack-Final-Project/tree/master/readme_Img/image3.png)
-Format: ![Alt Text](url)
+![Image] (./readme_Img/image3.png)
 
 **Price Gap between brands per marketplace**
-![Image4] (https://github.com/juanema74/Ironhack-Final-Project/tree/master/readme_Img/image4.png)
-Format: ![Alt Text](url)
+![Image] (./readme_Img/image4.png)
 
 
 ### :computer: **Technology stack** :computer:
