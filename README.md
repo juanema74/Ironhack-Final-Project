@@ -1,18 +1,18 @@
 
 ### **Ironhack Final Project - Part Time Data Analytics Bootcamp** 
-### **Marketplace Price Evolution Tool** 
-**Making value out of data, to drive sales strategy**
+### :chart_with_upwards_trend: **Marketplace Price Evolution Tool** 
+### :moneybag: **Making value out of data, to drive sales strategy**
 
 
-![samsung_vs_lg_] (../readme_Img/samsung_vs_lg_)
+![samsung_vs_lg_] (../images/samsung_vs_lg_)
 
-### :running: **About the project**
-### 💥**Core technical concepts and inspiration🏃**
+### :dart: **About the project** :dart:
+### :boom: **Core technical concepts and inspiration**
 In a world where eveything change in seconds, a real time price strategy, is a must, so we need to know what others are doing, in order to adapt our price policy depending where we are selling, with the final objective to increase sales day by day.
 
 This is an App created to visualize the daily price Evolution of Ultra HD 4K TVs in 2 Manufactures: LG and Samsung, in 2 different marketplaces: Pc Componentes and Worten.
 
-Main objectives:
+:pushpin: Main objectives:
 - Strengthen and make company's sales strategy more efficient.
 - Make pricing decisions, adapting prices to each Marketplace, in order to increase sales.
 - Sell your products in the Marketplace that better fit my Price.
@@ -20,19 +20,19 @@ Main objectives:
 - Being able to anticipate and change prices on selected dates, such as Black Friday, Christmas etc.
 
 **Price Evolution from the four sources of data**
-![Image1] (../readme_Img/image1.png)
+![Image1] (../readme_I¡img/image1.png)
 
 **Market place by brand detail**
-![Image2] (../readme_Img/image2.png)
+![Image2] (../readme_img/image2.png)
 
 **DataFrame Max prices over the days**
-![Image3] (../readme_Img/image3.png)
+![Image3] (../readme_img/image3.png)
 
-**Price Gap between brand per marketplace**
-![Image4] (../readme_Img/image4.png)
+**Price Gap between brands per marketplace**
+![Image4] (../readme_img/image4.png)
 
 
-### :computer: **Technology stack**
+### :computer: **Technology stack** :computer:
 Python, Pandas, Numpy, Requests, BeautifulSoup, Seaborn, Matplotlib, Plotly, Plotly.express, Cufflinks, Chart_studio, Streamlit
 
 
@@ -76,7 +76,7 @@ Please, install all the libraries mentinoned in Technology Stack in your environ
 - Have the detail per TV category (UHD, 4k, OLED) and models.
 - EAN to product API conection
 
-### 💌 **Contact info**
+### 💌 :link: **Contact info**
 - LinkedIn: https://www.linkedin.com/in/juan-de-diego-suanzes/
 - Github: https://github.com/juanema74
 - Tableau: https://public.tableau.com/profile/juan.de.diego#!/?newProfile=&activeTab=0
