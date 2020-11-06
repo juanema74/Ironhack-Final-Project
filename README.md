@@ -1,55 +1,51 @@
-# Data Project README file
 
-The README file describes the essence of the project playing the most important role. Most visitors will simply scroll down about twice on the README and leave if they are not interested. So, the README file should provide the reason **why** to checkout your project!!!). 
-Bearing that in mind, your job is to: 
-- Tell them what it is (with context).
-- Show them what it looks like in action.
-- Show them how they use it.
-- Tell them any other relevant details.
+### :raising_hand: **Marketplace Price Evolution Tool** 
+**"Making value out of data, to drive sales strategy"**
 
-![Image](https://res.cloudinary.com/springboard-images/image/upload/q_auto,f_auto,fl_lossy/wordpress/2019/05/aiexcerpt.png)
-
----
-
-## **Formatting**
-Your readers will most likely view your README in a browser so please keep that in mind when formatting its content: 
-- Use proper format when necesary (e.g.: `import pandas as pd`). 
-- Categorize content using two or three levels of header beneath. 
-- Make use of **emphasis** to call out important words. 
-- Link to project pages for related libraries you mention. Link to Wikipedia, Wiktionary, even Urban Dictionary definitions for words of which a reader may not be familiar. Make amusing cultural references. 
-- Add links to related projects or services. 
-
-> Here you have a markdown cheatsheet [Link](https://commonmark.org/help/) and tutorial [Link](https://commonmark.org/help/tutorial/).
-
-
-## **Start writing ASAP:**
-*Last but not least, by writing your README soon you give yourself some pretty significant advantages. Most importantly, you’re giving yourself a chance to think through the project without the overhead of having to change code every time you change your mind about how something should be organized or what should be included.*
-
-
-## **Suggested Structure:**
-
-### :raising_hand: **Name** 
-Self-explanatory names are best. If the name sounds too vague or unrelated, it may be a signal to move on. It also must be catchy. Images, Logo, Gif or some color is strongly recommended.
 
 ### :baby: **Status**
-Alpha, Beta, 1.1, Ironhack Data Analytics Final Project, etc... It's OK to write a sentence, too. The goal is to let interested people know where this project is at.
+“Ironhack Final Project - Part Time Data Analytics Bootcamp"
 
-### :running: **One-liner**
-Having a one-liner that describes the pipeline/api/app is useful for getting an idea of what your code does in slightly greater detail. 
+![Image] (samsung_vs_lg_)
+
+### :running: **About the project**
+"Daily TV Marketplace Price Evolution, thanks to daily Web Scraping"
+
 
 ### :computer: **Technology stack**
-Python, Pandas, Scipy, Scikit-learn, etc. Indicate the technological nature of the software, including primary programming language(s), main libraries and whether the software is intended as standalone or as a module in a framework or other ecosystem.
+Python, Pandas, Numpy, Requests, BeautifulSoup, Seaborn, Matplotlib, Plotly, Plotly.express, Cufflinks, Chart_studio, Streamlit
 
-### :boom: **Core technical concepts and inspiration**
-Why does it exist? Frame your project for the potential user. Compare/contrast your project with other, similar projects so the user knows how it is different from those projects. Highlight the technical concepts that your project demonstrates or supports. Keep it very brief.
 
-### :wrench: **Configuration**
-Requeriments, prerequisites, dependencies, installation instructions.
+### 💥**Core technical concepts and inspiration🏃**
+In a world where eveything change in seconds, a real time price strategy, is a must, so we need to know what others are doing, in order to adapt our price policy depending where we are selling, with the final objective to increase sales day by day.
 
-### :see_no_evil: **Usage**
-Parameters, return values, known issues, thrown errors.
+This is an App created to visualize the daily price Evolution of Ultra HD 4K TVs in 2 Manufactures: LG and Samsung, in 2 different marketplaces: Pc Componentes and Worten.
 
-### :file_folder: **Folder structure**
+Main objectives:
+• Strengthen and make company's sales strategy more efficient.
+• Make pricing decisions, adapting prices to each Marketplace, in order to increase sales.
+• Sell your products in the Marketplace that better fit my Price.
+• Adapt the prices depending on the Marketplace we sell.
+• Being able to anticipate and change prices on selected dates, such as Black Friday, Christmas etc.
+
+**Price Evolution from the four sources of data**
+![Image] (image1.png)
+
+**Market place by brand detail**
+![Image] (image2.png)
+
+**DataFrame Max prices over the days**
+![Image] (image3.png)
+
+**Price Gap between brand per marketplace**
+![Image] (image4.png)
+
+### :wrench: **How to use the app**
+Please, install all the libraries mentinoned in Technology Stack in your environment in order to run the script.
+
+
+
+### 📁 **Folder structure**
 ```
 └── project
     ├── __trash__
@@ -57,43 +53,39 @@ Parameters, return values, known issues, thrown errors.
     ├── .env
     ├── requeriments.txt
     ├── README.md
-    ├── main_script.py
+    ├── readme_Img
     ├── notebooks
-    │   ├── notebook1.ipynb
-    │   └── notebook2.ipynb
-    ├── package1
-    │   ├── module1.py
-    │   └── module2.py
+        ├── 1. Scrapping PC_Componentes.ipynb
+        ├── 2. Scrapping Worten.ipynb
+        ├── 3. PC_COMP.ipynb
+        ├── 4. WORTEN.ipynb
+        ├── 5. Plots by Marketplace.ipynb
+        ├── 6. VISUALIZATION PER MARKETPLACE, BRAND & TV MODEL.ipynb
+
+    ├── streamlit
+    │   ├── app.py
+    |   ├── app.ipynb
+    │   └── images
     └── data
-        ├── raw
-        ├── processed
-        └── results
+        ├── pc_comp_scrap
+        ├── worten_scrap
+        └── SUMMARY.csv
 ```
 
 > Do not forget to include `__trash__` and `.env` in `.gitignore` 
 
 ### :shit: **ToDo**
-Next steps, features planned, known bugs (shortlist).
+Next steps:
+- Make it for more market place, and more brands
+- Have the detail per TV category (UHD, 4k, OLED) and models.
+- EAN to product API conection
 
-### :information_source: **Further info**
-Credits, alternatives, references, license.
-
-### :love_letter: **Contact info**
-Getting help, getting involved, hire me please.
+### 💌**Contact info**
+- LinkedIn: https://www.linkedin.com/in/juan-de-diego-suanzes/
+- Github: https://github.com/juanema74
+- Tableau: https://public.tableau.com/profile/juan.de.diego#!/?newProfile=&activeTab=0
+- Email: Juandediegosuanzes@gmail.com
+- Phone: 636277330
 
 ---
-
-> Here you have some repo examples:
-- [Mamba (OCR-Translator-Assistant)](https://github.com/YonatanRA/OCR-translator-assistant-project)
-- [Art Classification](https://github.com/serguma/art_classification)
-- [OSNet-IBN (width x 1.0) Lite](https://github.com/RodMech/OSNet-IBN1-Lite)
-- [Movie Founder](https://github.com/Alfagu/final-project-Ironhack-0419mad)
-- [Convolutional Neural Network to detect Pneumonia](https://github.com/jmolins89/final-project)
-- [Brain tumor detection project](https://github.com/alonsopdani/brain-tumor-detection-project)
-- [Policy-Gradient-Methods](https://github.com/cyoon1729/Policy-Gradient-Methods)
-
-> Here you have some tools and references:
-- [Make a README](https://www.makeareadme.com/)
-- [Awesome README](https://github.com/matiassingers/awesome-readme)
-- [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
