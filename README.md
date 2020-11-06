@@ -1,21 +1,13 @@
 
-### :raising_hand: **Marketplace Price Evolution Tool** 
+###**Ironhack Final Project - Part Time Data Analytics Bootcamp** 
+###**Marketplace Price Evolution Tool** 
 **"Making value out of data, to drive sales strategy"**
 
 
-### :baby: **Status**
-“Ironhack Final Project - Part Time Data Analytics Bootcamp"
 
-![Image] (samsung_vs_lg_)
+![Image] (/Users/juandediegosuanzes/desktop/Ironhack-Final-Project/readme_Img/samsung_vs_lg_)
 
 ### :running: **About the project**
-"Daily TV Marketplace Price Evolution, thanks to daily Web Scraping"
-
-
-### :computer: **Technology stack**
-Python, Pandas, Numpy, Requests, BeautifulSoup, Seaborn, Matplotlib, Plotly, Plotly.express, Cufflinks, Chart_studio, Streamlit
-
-
 ### 💥**Core technical concepts and inspiration🏃**
 In a world where eveything change in seconds, a real time price strategy, is a must, so we need to know what others are doing, in order to adapt our price policy depending where we are selling, with the final objective to increase sales day by day.
 
@@ -29,16 +21,23 @@ Main objectives:
 • Being able to anticipate and change prices on selected dates, such as Black Friday, Christmas etc.
 
 **Price Evolution from the four sources of data**
-![Image] (image1.png)
+![Image] (/Users/juandediegosuanzes/desktop/Ironhack-Final-Project/readme_Img/image1.png)
 
 **Market place by brand detail**
-![Image] (image2.png)
+![Image] (/Users/juandediegosuanzes/desktop/Ironhack-Final-Project/readme_Img/image2.png)
 
 **DataFrame Max prices over the days**
-![Image] (image3.png)
+![Image] (/Users/juandediegosuanzes/desktop/Ironhack-Final-Project/readme_Img/image3.png)
 
 **Price Gap between brand per marketplace**
-![Image] (image4.png)
+![Image] (/Users/juandediegosuanzes/desktop/Ironhack-Final-Project/readme_Img/image4.png)
+
+
+### :computer: **Technology stack**
+Python, Pandas, Numpy, Requests, BeautifulSoup, Seaborn, Matplotlib, Plotly, Plotly.express, Cufflinks, Chart_studio, Streamlit
+
+
+
 
 ### :wrench: **How to use the app**
 Please, install all the libraries mentinoned in Technology Stack in your environment in order to run the script.
@@ -74,8 +73,7 @@ Please, install all the libraries mentinoned in Technology Stack in your environ
 
 > Do not forget to include `__trash__` and `.env` in `.gitignore` 
 
-### :shit: **ToDo**
-Next steps:
+### :bell: **Next steps**
 - Make it for more market place, and more brands
 - Have the detail per TV category (UHD, 4k, OLED) and models.
 - EAN to product API conection
