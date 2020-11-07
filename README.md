@@ -3,7 +3,7 @@
 ### :chart_with_upwards_trend: **Marketplace Price Evolution Tool** 
 ### :moneybag: **Making value out of data, to drive sales strategy**
 
-![image](../streamlit/images/samsung_vs_lg_)
+![image](samsung_vs_lg_)
 
 
 ### :dart: **About the project** :dart:
@@ -20,16 +20,16 @@ This is an App created to visualize the daily price Evolution of Ultra HD 4K TVs
 - Being able to anticipate and change prices on selected dates, such as Black Friday, Christmas etc.
 
 **Price Evolution from the four sources of data**
-![Image1](./readme_img/image1.png)
+![Image1](image1.png)
 
 **Market place by brand detail**
-![Image2](./readme_img/image2.png)
+![Image2](image2.png)
 
 **DataFrame Max prices over the days**
-![Image3](./readme_img/image3.png)
+![Image3](image3.png)
 
 **Price Gap between brands per marketplace**
-![Image4](./readme_img/image4.png)
+![Image4](image4.png)
 
 
 ### :computer: **Technology stack** :computer:
